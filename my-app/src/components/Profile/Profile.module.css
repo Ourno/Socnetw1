@@ -1,0 +1,13 @@
+.profile {
+    grid-area: c;
+    background-color: orange;
+    color: white;
+}
+
+.profile img {
+    width: 100%;
+}
+
+.item {
+    color: green;
+}
